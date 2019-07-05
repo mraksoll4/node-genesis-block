@@ -21,7 +21,7 @@
   "homepage": "https://github.com/mraksoll4/node-genesis-block#readme",
   "dependencies": {
     "crypto": "^1.0.1",
-    "multi-hashing": "git+https://github.com/mraksoll4/node-multi-hashing.git",
+    "multi-hashing": "git+https://github.com/mraksoll4/node-multi-hashing-yespower.git",
     "yargs": "^11.1.0"
   }
 }
